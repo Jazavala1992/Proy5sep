@@ -1,0 +1,138 @@
+.cabeza
+{
+    background-color: bisque;
+    border-radius: 100px;
+    width: 200px; height: 200px;
+    position: absolute;
+    left: 125px;    
+    top: 112px;
+    
+}
+.ojo1
+{
+    background-color: rgb(16, 16, 16);
+    border-radius: 100px;
+    width: 30px; height: 30px;
+    position: absolute;
+    left: 180px;
+    top: 150px;
+}
+.ojo2
+{
+    background-color: rgb(16, 16, 16);
+    border-radius: 100px;
+    width: 30px; height: 30px;
+    position: absolute;
+    left: 240px;
+    top: 150px;
+}
+.cuerpo
+{
+    background-color: bisque;
+    border-radius: 100px;
+    width: 250px; height: 250px;
+    position: relative;
+    left: 100px;
+    top: 300px;
+}
+.boton1
+{
+    background-color: blue;
+    border-radius: 100px;
+    width: 40px; height: 40px;
+    position: absolute;
+    left: 210px;
+    top: 330px;
+}
+.boton2
+{
+    background-color: blue;
+    border-radius: 100px;
+    width: 40px; height: 40px;
+    position: absolute;
+    left: 210px;
+    top: 400px;
+}
+.boton3
+{
+    background-color: blue;
+    border-radius: 100px;
+    width: 40px; height: 40px;
+    position: absolute;
+    left: 210px;
+    top: 470px;
+}
+.pies
+{
+    background-color: bisque;
+    border-radius: 100px;
+    width: 350px; height: 250px;
+    position: absolute;
+    left: 60px;
+    top: 550px;
+}
+.brazo1
+{
+    background-color:bisque;
+    width: 15px; height: 200px;
+    position: absolute; 
+    left: 370px;
+    top: 200px;
+    transform: rotate(45deg);
+}
+.brazo2
+{
+    background-color: bisque;
+    width: 15px; height: 200px;
+    position: absolute;
+    left: 80px;
+    top: 200px;
+    transform: rotate(135deg);
+
+}
+.boca
+{
+    background-color: orange;
+    border-radius: 100px;
+    width: 7px; height: 100px;
+    position: absolute;
+    left: 220px;
+    top: 200px;
+    transform: rotate(90deg);
+
+}
+.sombrero
+{
+    background-color: rgb(16, 16, 16);
+    width: 80px; height: 80px;
+    position: absolute;
+    left: 185px;
+    top: 30px;
+}
+.copa
+{
+    background-color: rgb(16, 16, 16);
+    border-radius: 100px;
+    width: 40px; height: 170px;
+    position: absolute;
+    left: 200px;
+    top: 30px;
+    transform: rotate(90deg);
+}
+.texto
+{
+    position: absolute;
+    left: 150px;
+    top: 650px;
+    text-align: center;
+}
+.nariz
+{
+    background-color: orange;
+    width: 20px; height: 60px;
+    position: absolute;
+    left: 210px;
+    top: 180px;
+    transform: rotate(55deg);
+   
+}
